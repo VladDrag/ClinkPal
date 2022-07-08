@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinkPal", "ClinkPal\ClinkPal.csproj", "{1FE43113-DDD2-4523-A7A7-4BE1DC968EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE43113-DDD2-4523-A7A7-4BE1DC968EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE43113-DDD2-4523-A7A7-4BE1DC968EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE43113-DDD2-4523-A7A7-4BE1DC968EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE43113-DDD2-4523-A7A7-4BE1DC968EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC70400-1E02-42F1-9B5F-95AD8ADBA71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC70400-1E02-42F1-9B5F-95AD8ADBA71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC70400-1E02-42F1-9B5F-95AD8ADBA71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC70400-1E02-42F1-9B5F-95AD8ADBA71F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
